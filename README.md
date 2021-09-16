@@ -1,8 +1,4 @@
 # E-LSMKSAS DATA LIVE
-> #### The quarterly results look great!
+> #### SELAMAT DATANG KE GITHUB E-LSMKSAS!
 >
-> - Revenue was off the chart.
-> - Profits were higher than ever.
->
->  *Everything* is going according to **plan**.
-git status
+> GITHUB INI AKAN UPDATE SETIAP MINGGU TERAKHIR.
