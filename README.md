@@ -1,5 +1,4 @@
-#[FF0000] E-LSMKSAS DATA
-This is Smksas Library Data list
+# [FF0000]E-LSMKSAS DATA
 # hi
 # yes
 
